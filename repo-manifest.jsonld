@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene/commit/82903263080b3b7f22c2ad84319584d7a3b1a1f6",
       "git:hexsha": "82903263080b3b7f22c2ad84319584d7a3b1a1f6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.4.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.4.3",
+      "repolex:parsedAt": "2026-10-12T01:31:08.340882+00:00"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene/commit/4775755e48400fbfe53fd13ce8ad49d0d4424a62",
